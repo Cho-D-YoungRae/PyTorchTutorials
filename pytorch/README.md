@@ -1,5 +1,5 @@
 # PyTorch-Tutorials-Study
 
-- [docs](https://github.com/Cho-D-YoungRae/CS-Lecture-Assignment.git)
+- [pytorch](https://pytorch.org)
 - [toturials](https://pytorch.org/tutorials/)
 - [tutorials(kr)](https://tutorials.pytorch.kr/)
